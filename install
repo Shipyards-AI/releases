@@ -449,3 +449,4 @@ echo -e ""
 echo -e "  cd <project>  ${MUTED}# Open a project directory${NC}"
 echo -e "  shipyard      ${MUTED}# Run Shipyard${NC}"
 echo -e ""
+
